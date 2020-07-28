@@ -1,0 +1,19 @@
+.tadlogo {
+    text-align: center;
+
+}
+
+.tadlogo img {
+    vertical-align: middle;
+    width: 15%;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    display: inline-block;
+}
+
+@media (max-width: 556px) {
+
+    .tadlogo {
+        display:none;
+    }
+}
