@@ -1,0 +1,39 @@
+.extptr {
+ width : 100%;
+ height : 600px;
+ float : right;
+}
+.branding-container {
+        padding-top: 19px;
+        padding-bottom: 19px;
+}
+
+.tadlogo{
+    text-align: center;
+    width: 15%;
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+
+}
+
+
+@media (max-width: 556px) {
+	
+	.tadlogo {
+             display:none;
+        }
+
+
+}
+
+
+#header .row {
+    display:none;
+}
+
+
+
+
+
+
